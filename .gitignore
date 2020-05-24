@@ -4,3 +4,4 @@
 .local/
 .jupyter/
 .cache/
+.cufflinks/
